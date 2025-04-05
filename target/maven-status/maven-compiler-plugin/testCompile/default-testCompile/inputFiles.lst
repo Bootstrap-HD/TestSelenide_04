@@ -1,0 +1,17 @@
+D:\work\learn\TestSelenide_04\src\test\java\base\PageBase.java
+D:\work\learn\TestSelenide_04\src\test\java\base\TestBase.java
+D:\work\learn\TestSelenide_04\src\test\java\enums\Browser.java
+D:\work\learn\TestSelenide_04\src\test\java\enums\LocatorType.java
+D:\work\learn\TestSelenide_04\src\test\java\enums\Platform.java
+D:\work\learn\TestSelenide_04\src\test\java\helpers\EnvironmentData.java
+D:\work\learn\TestSelenide_04\src\test\java\helpers\Locators.java
+D:\work\learn\TestSelenide_04\src\test\java\listeners\ScreenshotListener.java
+D:\work\learn\TestSelenide_04\src\test\java\pages\CartPage.java
+D:\work\learn\TestSelenide_04\src\test\java\pages\CatalogPage.java
+D:\work\learn\TestSelenide_04\src\test\java\pages\HeaderMenuPage.java
+D:\work\learn\TestSelenide_04\src\test\java\pages\LoginMessagePage.java
+D:\work\learn\TestSelenide_04\src\test\java\pages\LoginPage.java
+D:\work\learn\TestSelenide_04\src\test\java\pages\ProductPage.java
+D:\work\learn\TestSelenide_04\src\test\java\tests\CartTest.java
+D:\work\learn\TestSelenide_04\src\test\java\tests\CatalogTest.java
+D:\work\learn\TestSelenide_04\src\test\java\tests\LoginTest.java
